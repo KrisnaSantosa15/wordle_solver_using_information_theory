@@ -50,7 +50,7 @@ To use the Wordle solver, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/KrisnaSantosa15/wordle_solver_using_information_theory.git
 ```
 
 2. Install the required dependencies:
